@@ -30,9 +30,6 @@ A modern full-stack Student Management System built with Django (backend) and Re
 
 ---
 
-
----
-
 ## ⚙️ Setup Instructions
 
 ### Clone Repo
